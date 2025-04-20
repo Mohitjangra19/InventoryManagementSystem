@@ -1,0 +1,1 @@
+There are two branches in this repo, one is main where you can checkout the backend code and the other branch is frontend, in frontend branch you can checkout the frontend of the inventory management system project.
