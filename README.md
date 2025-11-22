@@ -14,5 +14,4 @@ A full-stack web application designed to streamline inventory tracking, supplier
 - **Database:** MySQL
 - **Tools:** Postman (API Testing), Git
 
-## 📸 Screenshots
-*(Upload 1 or 2 screenshots of your app here later. For now, delete this line or leave it blank)*
+
