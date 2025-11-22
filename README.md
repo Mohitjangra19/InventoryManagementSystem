@@ -1,1 +1,18 @@
-There are two branches in this repo, one is main where you can checkout the backend code and the other branch is frontend, in frontend branch you can checkout the frontend of the inventory management system project.
+# Inventory Control System 📦
+
+A full-stack web application designed to streamline inventory tracking, supplier management, and stock reporting. Built to handle real-time data updates and complex product relationships.
+
+## 🚀 Key Features
+- **Dashboard:** Real-time overview of total stock, low-stock alerts, and recent transactions.
+- **Product Management:** Full CRUD (Create, Read, Update, Delete) operations for inventory items.
+- **Supplier Tracking:** maintain detailed records of suppliers and order history.
+- **Reporting:** Generate summaries of stock levels and movements.
+
+## 🛠️ Tech Stack
+- **Frontend:** Angular (v19+), HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Tools:** Postman (API Testing), Git
+
+## 📸 Screenshots
+*(Upload 1 or 2 screenshots of your app here later. For now, delete this line or leave it blank)*
